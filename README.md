@@ -66,7 +66,6 @@ Fork → Improve → Contribute → High-five! 🙌
 ## 📬 Feedback & Contact
 
 For customizations or full website development for financial firms:
-📧 admin@softlancersolutions.com  
 🌍 https://softlancersolutions.com
 
 ---
